@@ -15,4 +15,10 @@ Feel free to contribute, suggest improvements, or ask questions through issues a
 
 - **logistic_regression.ipynb**: A deep dive into Logistic Regression, focusing on its application, decision boundaries, and performance evaluation.
 
-- **pca_from_scratch_n_Scikit.ipynb**: A deep dive into Prinicpal Component Analysis, focusing on core implementation using numpy as well as scikit-learn. 
+- **pca_from_scratch_n_Scikit.ipynb**: A deep dive into Prinicpal Component Analysis, focusing on core implementation using numpy as well as scikit-learn.
+
+## Upcoming concepts
+
+- Linear Regression
+- Support Vector Machines
+- K Means clustering
