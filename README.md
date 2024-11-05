@@ -14,3 +14,5 @@ Feel free to contribute, suggest improvements, or ask questions through issues a
 - **custom_kernel_svm.ipynb**: Custom implementation of Kernel-based Support Vector Machine (SVM), exploring the effect of different kernels on classification tasks.
 
 - **logistic_regression.ipynb**: A deep dive into Logistic Regression, focusing on its application, decision boundaries, and performance evaluation.
+
+- **pca_from_scratch_n_Scikit.ipynb**: A deep dive into Prinicpal Component Analysis, focusing on core implementation using numpy as well as scikit-learn. 
