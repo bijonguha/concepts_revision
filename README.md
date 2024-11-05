@@ -1,5 +1,5 @@
 # ML Concepts Revision
-![ML Concepts](images/95ltgpqe.png)
+![ML Concepts](images/95ltgpqe_1.png)
 
 This repository is dedicated to revising and exploring fundamental machine learning concepts through various Jupyter notebooks. Each notebook covers a specific concept, providing code and explanations to reinforce understanding and application.
 
