@@ -17,6 +17,8 @@ Feel free to contribute, suggest improvements, or ask questions through issues a
 
 - **pca_from_scratch_n_Scikit.ipynb**: A deep dive into Prinicpal Component Analysis, focusing on core implementation using numpy as well as scikit-learn.
 
+- **decision_tree_scratch.ipynb**: A complete notebook that defines trees node from scratch and implement decision trees from the very basics.
+
 ## Upcoming concepts
 
 - Linear Regression
